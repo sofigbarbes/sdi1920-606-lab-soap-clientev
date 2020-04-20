@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\.metadata\.plugins\org.eclipse.jdt.core
+764124647.index
+2576997850.index
+2968768440.index
+582977122.index
+840979358.index
+3463081189.index
+2786687548.index
+4016945775.index
+2811831823.index
+1161622307.index
+3802144252.index
+194108625.index
+1534493072.index
+2323980686.index
+3539432656.index
+2009416856.index
+1443355330.index

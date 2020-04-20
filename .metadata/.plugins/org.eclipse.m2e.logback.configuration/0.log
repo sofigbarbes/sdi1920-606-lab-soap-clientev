@@ -1,0 +1,1021 @@
+2020-04-19 17:52:38,563 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-19 18:01:26,628 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:01:27,024 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.2.6.RELEASE/spring-boot-starter-thymeleaf-2.2.6.RELEASE.pom
+2020-04-19 18:01:27,076 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.2.6.RELEASE/spring-boot-starter-thymeleaf-2.2.6.RELEASE.pom
+2020-04-19 18:01:28,701 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.2.6.RELEASE/spring-boot-starter-thymeleaf-2.2.6.RELEASE.jar
+2020-04-19 18:01:28,744 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.2.6.RELEASE/spring-boot-starter-thymeleaf-2.2.6.RELEASE.jar
+2020-04-19 18:01:29,081 [Worker-5: Import Getting Started Content] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2020-04-19 18:01:33,029 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.2.6.RELEASE/spring-boot-starter-thymeleaf-2.2.6.RELEASE-sources.jar
+2020-04-19 18:01:33,079 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.2.6.RELEASE/spring-boot-starter-thymeleaf-2.2.6.RELEASE-sources.jar
+2020-04-19 18:01:33,258 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-thymeleaf:2.2.6.RELEASE
+2020-04-19 18:01:33,860 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/main/java
+2020-04-19 18:01:33,861 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:01:33,873 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:01:33,888 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/test/java
+2020-04-19 18:01:35,482 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2020-04-19 18:01:35,485 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-19 18:01:36,215 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:01:37,602 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/main/java
+2020-04-19 18:01:37,602 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:01:37,604 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:01:37,609 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/test/java
+2020-04-19 18:01:38,379 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-19 18:01:45,007 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:01:45,026 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 18:01:45,037 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:01:45,040 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:01:45,040 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:01:46,828 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:01:46,829 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:01:46,830 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:01:46,832 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:01:46,832 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:03:10,970 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-19 18:03:11,816 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:03:12,805 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/main/java
+2020-04-19 18:03:12,805 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:03:12,806 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:03:12,806 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/test/java
+2020-04-19 18:03:13,128 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-19 18:03:14,101 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:03:14,102 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 18:03:14,116 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:03:14,119 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:03:14,119 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:05:19,660 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-19 18:05:20,333 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:05:21,688 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/main/java
+2020-04-19 18:05:21,688 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:05:21,689 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:05:21,689 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/test/java
+2020-04-19 18:05:21,869 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-19 18:05:22,877 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:05:22,878 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 18:05:22,894 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:05:22,897 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:05:22,898 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:15:50,159 [Worker-14: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.1.1/maven-jar-plugin-2.1.1.jar
+2020-04-19 18:15:50,525 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:15:51,231 [Worker-14: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.1.1/maven-jar-plugin-2.1.1.pom
+2020-04-19 18:15:51,250 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-jar-plugin:jar:2.1.1 is missing, no dependency information available
+2020-04-19 18:15:51,401 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-jar-plugin:jar:2.1.1 is missing, no dependency information available
+2020-04-19 18:16:59,724 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:17:00,779 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:17:00,782 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:17:00,783 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:17:00,785 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:17:00,785 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:17:09,130 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-19 18:17:09,850 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:17:10,504 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/main/java
+2020-04-19 18:17:10,505 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:17:10,505 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:17:10,506 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/test/java
+2020-04-19 18:17:10,761 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-19 18:17:11,701 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:17:11,702 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 18:17:11,719 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:17:11,723 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:17:11,723 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:18:18,919 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/maven-metadata.xml
+2020-04-19 18:18:19,001 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/maven-metadata.xml
+2020-04-19 18:18:19,086 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.pom
+2020-04-19 18:18:19,121 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.pom
+2020-04-19 18:18:19,165 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-project/0.14.0/maven-jaxb2-plugin-project-0.14.0.pom
+2020-04-19 18:18:19,226 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-project/0.14.0/maven-jaxb2-plugin-project-0.14.0.pom
+2020-04-19 18:18:19,265 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.jar
+2020-04-19 18:18:19,392 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.jar
+2020-04-19 18:18:20,103 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:18:20,877 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.pom
+2020-04-19 18:18:20,919 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.pom
+2020-04-19 18:18:20,972 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2020-04-19 18:18:21,011 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2020-04-19 18:18:21,047 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2020-04-19 18:18:21,118 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2020-04-19 18:18:21,160 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.pom
+2020-04-19 18:18:21,198 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.pom
+2020-04-19 18:18:21,237 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2020-04-19 18:18:21,318 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2020-04-19 18:18:21,361 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.pom
+2020-04-19 18:18:21,400 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.pom
+2020-04-19 18:18:21,438 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.pom
+2020-04-19 18:18:21,475 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.pom
+2020-04-19 18:18:21,515 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.0/jaxb-txw-parent-2.3.0.pom
+2020-04-19 18:18:21,552 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.0/jaxb-txw-parent-2.3.0.pom
+2020-04-19 18:18:21,598 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/jaxb-parent-2.3.0.pom
+2020-04-19 18:18:21,653 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/jaxb-parent-2.3.0.pom
+2020-04-19 18:18:21,706 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.0/jaxb-bom-ext-2.3.0.pom
+2020-04-19 18:18:21,770 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.0/jaxb-bom-ext-2.3.0.pom
+2020-04-19 18:18:21,822 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.0/jaxb-bom-2.3.0.pom
+2020-04-19 18:18:21,865 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.0/jaxb-bom-2.3.0.pom
+2020-04-19 18:18:21,907 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2020-04-19 18:18:21,954 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2020-04-19 18:18:22,183 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2020-04-19 18:18:22,275 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2020-04-19 18:18:22,583 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+2020-04-19 18:18:22,633 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+2020-04-19 18:18:22,686 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+2020-04-19 18:18:22,739 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+2020-04-19 18:18:22,794 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.pom
+2020-04-19 18:18:22,841 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.pom
+2020-04-19 18:18:22,882 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.pom
+2020-04-19 18:18:22,920 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.pom
+2020-04-19 18:18:22,964 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.0/jaxb-runtime-parent-2.3.0.pom
+2020-04-19 18:18:23,006 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.0/jaxb-runtime-parent-2.3.0.pom
+2020-04-19 18:18:23,060 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.pom
+2020-04-19 18:18:23,106 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.pom
+2020-04-19 18:18:23,150 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom
+2020-04-19 18:18:23,210 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom
+2020-04-19 18:18:23,282 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom
+2020-04-19 18:18:23,355 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom
+2020-04-19 18:18:23,399 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.pom
+2020-04-19 18:18:23,446 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.pom
+2020-04-19 18:18:23,495 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.5/istack-commons-3.0.5.pom
+2020-04-19 18:18:23,537 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.5/istack-commons-3.0.5.pom
+2020-04-19 18:18:23,583 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.pom
+2020-04-19 18:18:23,618 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.pom
+2020-04-19 18:18:23,652 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2020-04-19 18:18:23,692 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2020-04-19 18:18:23,729 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.pom
+2020-04-19 18:18:23,765 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.pom
+2020-04-19 18:18:23,805 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.13/fastinfoset-project-1.2.13.pom
+2020-04-19 18:18:23,864 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.13/fastinfoset-project-1.2.13.pom
+2020-04-19 18:18:23,923 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.pom
+2020-04-19 18:18:23,968 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.pom
+2020-04-19 18:18:24,008 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.pom
+2020-04-19 18:18:24,045 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.pom
+2020-04-19 18:18:24,083 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.pom
+2020-04-19 18:18:24,117 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.pom
+2020-04-19 18:18:24,155 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.pom
+2020-04-19 18:18:24,189 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.pom
+2020-04-19 18:18:24,231 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.pom
+2020-04-19 18:18:24,269 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.pom
+2020-04-19 18:18:24,309 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-codemodel-parent/2.3.0/jaxb-codemodel-parent-2.3.0.pom
+2020-04-19 18:18:24,353 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-codemodel-parent/2.3.0/jaxb-codemodel-parent-2.3.0.pom
+2020-04-19 18:18:24,390 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.pom
+2020-04-19 18:18:24,427 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.pom
+2020-04-19 18:18:24,467 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-external-parent/2.3.0/jaxb-external-parent-2.3.0.pom
+2020-04-19 18:18:24,517 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-external-parent/2.3.0/jaxb-external-parent-2.3.0.pom
+2020-04-19 18:18:24,560 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.pom
+2020-04-19 18:18:24,595 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.pom
+2020-04-19 18:18:24,634 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.pom
+2020-04-19 18:18:24,677 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.pom
+2020-04-19 18:18:24,718 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+2020-04-19 18:18:24,756 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+2020-04-19 18:18:24,798 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2020-04-19 18:18:24,845 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2020-04-19 18:18:24,891 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2020-04-19 18:18:24,930 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2020-04-19 18:18:25,065 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.jar
+2020-04-19 18:18:25,126 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.jar
+2020-04-19 18:18:25,153 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+2020-04-19 18:18:25,341 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+2020-04-19 18:18:25,365 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar
+2020-04-19 18:18:25,590 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar
+2020-04-19 18:18:25,612 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.jar
+2020-04-19 18:18:25,697 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.jar
+2020-04-19 18:18:25,720 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.jar
+2020-04-19 18:18:25,784 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.jar
+2020-04-19 18:18:25,818 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2020-04-19 18:18:25,971 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2020-04-19 18:18:26,005 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
+2020-04-19 18:18:26,139 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
+2020-04-19 18:18:26,187 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.jar
+2020-04-19 18:18:26,331 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.jar
+2020-04-19 18:18:26,389 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.jar
+2020-04-19 18:18:26,811 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.jar
+2020-04-19 18:18:26,837 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.jar
+2020-04-19 18:18:26,923 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.jar
+2020-04-19 18:18:26,949 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar
+2020-04-19 18:18:27,017 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar
+2020-04-19 18:18:27,042 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.jar
+2020-04-19 18:18:27,211 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.jar
+2020-04-19 18:18:27,233 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.jar
+2020-04-19 18:18:27,383 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.jar
+2020-04-19 18:18:27,421 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.jar
+2020-04-19 18:18:27,514 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.jar
+2020-04-19 18:18:27,539 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.jar
+2020-04-19 18:18:27,917 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.jar
+2020-04-19 18:18:27,938 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.jar
+2020-04-19 18:18:28,006 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.jar
+2020-04-19 18:18:28,026 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.jar
+2020-04-19 18:18:28,250 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.jar
+2020-04-19 18:18:28,286 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.jar
+2020-04-19 18:18:28,416 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.jar
+2020-04-19 18:18:28,450 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.jar
+2020-04-19 18:18:28,603 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.jar
+2020-04-19 18:18:28,626 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.jar
+2020-04-19 18:18:28,775 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.jar
+2020-04-19 18:18:28,794 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.jar
+2020-04-19 18:18:28,923 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.jar
+2020-04-19 18:18:28,959 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.jar
+2020-04-19 18:18:29,078 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.jar
+2020-04-19 18:18:29,104 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar
+2020-04-19 18:18:29,186 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar
+2020-04-19 18:18:29,216 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
+2020-04-19 18:18:29,306 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
+2020-04-19 18:18:33,354 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:18:34,367 [Worker-24: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:18:34,386 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:18:34,407 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:18:35,519 [Worker-24: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:18:35,719 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:18:35,722 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:18:35,722 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:18:35,722 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:18:35,724 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:18:35,725 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:18:38,078 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:18:39,096 [Worker-24: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:18:39,117 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:18:39,139 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:18:40,153 [Worker-24: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:18:40,204 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:18:40,205 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 18:18:40,224 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:18:40,225 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:18:40,228 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:18:40,228 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:19:26,964 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:19:27,542 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:19:28,556 [Worker-22: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:19:28,579 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:19:28,603 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:19:29,655 [Worker-22: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:19:29,855 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:19:29,860 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:19:29,860 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:19:29,860 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:19:29,863 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:19:29,863 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:19:43,954 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:19:45,006 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:19:46,019 [Worker-21: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:19:46,041 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:19:46,058 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:19:47,099 [Worker-21: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:19:47,281 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:19:47,284 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:19:47,285 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:19:47,285 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:19:47,287 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:19:47,287 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:20:00,266 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-19 18:20:00,913 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:20:01,709 [Worker-21: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:20:02,723 [Worker-21: Updating Maven Project] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:20:02,745 [Worker-21: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:20:02,761 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:20:03,806 [Worker-21: Updating Maven Project] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:111) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:439) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:352) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1332) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:349) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) ~[org.eclipse.m2e.core.ui_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 35 common frames omitted
+2020-04-19 18:20:03,981 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/main/java
+2020-04-19 18:20:03,982 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:20:03,982 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sdi1920-606-lab-soap-clientev/src/main/resources
+2020-04-19 18:20:03,982 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /sdi1920-606-lab-soap-clientev/src/main/java overlaps with sources folder /sdi1920-606-lab-soap-clientev/src/main/java
+2020-04-19 18:20:03,983 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sdi1920-606-lab-soap-clientev/src/test/java
+2020-04-19 18:20:04,252 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-04-19 18:20:05,177 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:20:06,190 [Worker-21: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:20:06,212 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:20:06,232 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:20:07,244 [Worker-21: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:20:07,302 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:20:07,303 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 18:20:07,317 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:20:07,317 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:20:07,320 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:20:07,320 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:23:50,042 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:23:50,432 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-jar-plugin:jar:2.1.1 is missing, no dependency information available
+2020-04-19 18:24:00,677 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:24:01,452 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:24:02,468 [Worker-14: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:24:02,489 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:24:02,508 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:24:03,548 [Worker-14: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:24:03,737 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:24:03,740 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 18:24:03,750 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:24:03,751 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:24:03,753 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:24:03,753 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:31:29,407 [Worker-26: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:31:30,192 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:31:31,206 [Worker-26: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:31:31,715 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:31:31,735 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:31:32,780 [Worker-26: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:31:32,946 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:31:32,949 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:31:32,949 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:31:32,949 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:31:32,950 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:31:32,951 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:32:21,257 [Worker-25: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:32:22,208 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The URI [http://localhost:8090/webservice/marks.wsdl] seems to represent an absolute HTTP or HTTPS URL. Getting the last modification timestamp is only possible if the URL is accessible and if the server returns the [Last-Modified] header correctly. This method is not reliable and is likely to fail. In this case the last modification timestamp will be assumed to be unknown.
+2020-04-19 18:32:23,224 [Worker-25: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Could not retrieve the last modification timestamp for the URI [http://localhost:8090/webservice/marks.wsdl] from the HTTP URL connection. The [Last-Modified] header was probably not set correctly.
+2020-04-19 18:32:23,247 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Last modification of the URI [http://localhost:8090/webservice/marks.wsdl] is not known.
+2020-04-19 18:32:23,269 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2020-04-19 18:32:24,314 [Worker-25: Building workspace] ERROR o.e.m.c.i.embedder.EclipseLogger - Error while parsing schema(s).Location []. Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+com.sun.istack.SAXParseException2: Se ha devuelto una excepción de E/S al procesar "http://localhost:8090/webservice/marks.wsdl". Excepción: java.net.ConnectException: Connection refused: connect.
+	at com.sun.tools.xjc.ErrorReceiver.error(ErrorReceiver.java:94) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:403) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:275) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.buildDOMForest(ModelLoader.java:306) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.loadWSDL(ModelLoader.java:373) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:158) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:117) [jaxb-xjc-2.3.0.jar:2.3.0]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.loadModel(XJC23Mojo.java:50) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:40) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.mjiip.v_2_3.XJC23Mojo.doExecute(XJC23Mojo.java:28) [maven-jaxb23-plugin-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.doExecute(RawXJC2Mojo.java:478) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.jvnet.jaxb2.maven2.RawXJC2Mojo.execute(RawXJC2Mojo.java:320) [maven-jaxb2-plugin-core-0.14.0.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:1342) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1341) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:173) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:116) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:106) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.200.v20181021-1645.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.8.0_241]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[na:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_241]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.tools.xjc.reader.internalizer.DOMForest.parse(DOMForest.java:395) [jaxb-xjc-2.3.0.jar:2.3.0]
+	... 41 common frames omitted
+2020-04-19 18:32:24,503 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:32:24,506 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:32:24,506 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:32:24,506 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 18:32:24,508 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 18:32:24,508 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\src\test\resources
+2020-04-19 18:32:30,195 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/1.5/maven-jaxb2-plugin-1.5.pom
+2020-04-19 18:32:30,219 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:30,310 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/1.5/maven-jaxb2-plugin-1.5.jar
+2020-04-19 18:32:30,330 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:30,354 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:30,440 [Worker-25: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:32:44,845 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-19 18:32:44,945 [Worker-28: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:44,954 [Worker-28: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:44,962 [Worker-28: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:45,042 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:32:45,350 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-04-19 18:32:46,084 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:46,095 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:32:46,105 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:06,432 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:06,440 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:06,448 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:06,523 [Worker-26: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:33:13,433 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-19 18:33:13,528 [Worker-20: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:13,536 [Worker-20: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:13,543 [Worker-20: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:13,649 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.uniovi:sdi1920-606-lab-soap-clientev:0.0.1-SNAPSHOT @ D:\SDI\labs11_12\sdi1920-606-lab-soap-clientev\sdi1920-606-lab-soap-clientev\pom.xml.
+2020-04-19 18:33:13,921 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-04-19 18:33:14,578 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:14,586 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
+2020-04-19 18:33:14,593 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jvnet.jaxb2.maven2:maven-jaxb2-plugin:jar:1.5 is missing, no dependency information available
